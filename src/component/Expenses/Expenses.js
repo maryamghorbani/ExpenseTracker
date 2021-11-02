@@ -5,6 +5,7 @@ import ExpensesFilter from "../ExpensesFilter/ExpensesFilter";
 
 
 import './Expenses.css'
+import './ExpensesList.css'
 
 
 const Expenses = (props) => {
